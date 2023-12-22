@@ -1,1 +1,0 @@
-## HEALTHAI-Predict API
