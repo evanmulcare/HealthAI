@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2e2a8e54.css",
+    "main.js": "/static/js/main.4d76c90e.js",
+    "static/media/webdashboard.png": "/static/media/webdashboard.971f22290de83d13a169.png",
+    "static/media/healthaiphonedashboard.png": "/static/media/healthaiphonedashboard.a26c38351fc9d029fdcd.png",
+    "static/media/ColonImage.png": "/static/media/ColonImage.c5edd2342783d5fce10d.png",
+    "static/media/LungImage.png": "/static/media/LungImage.372cfcd8b52cbad4352c.png",
+    "static/media/HealthAIPhoneLogin.png": "/static/media/HealthAIPhoneLogin.69fa5d10d549572eee42.png",
+    "static/media/HeartImage.webp": "/static/media/HeartImage.d31884f8bdacdcaf92e2.webp",
+    "static/media/DefaultProfile.png": "/static/media/DefaultProfile.c3f945216dc12c9498dc.png",
+    "static/media/roboto.jpeg": "/static/media/roboto.51964f80f125e004503a.jpeg",
+    "index.html": "/index.html",
+    "main.2e2a8e54.css.map": "/static/css/main.2e2a8e54.css.map",
+    "main.4d76c90e.js.map": "/static/js/main.4d76c90e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2e2a8e54.css",
+    "static/js/main.4d76c90e.js"
+  ]
+}
