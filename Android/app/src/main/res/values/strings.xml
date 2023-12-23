@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">HealthAI</string>
+
+    <string-array name="role_select">
+        <item>Select Role</item>
+        <item>Patient</item>
+        <item>Doctor</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
